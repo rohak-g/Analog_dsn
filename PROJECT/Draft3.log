@@ -1,0 +1,180 @@
+LTspice 24.1.1 for Windows
+Circuit: C:\Users\gupta\Desktop\vlsi\4th sem\Analog\PROJECT\Draft3.net
+Start Time: Thu May 22 12:15:11 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+C:\Users\gupta\Desktop\vlsi\4th sem\Analog\PROJECT\Draft3.net(7): Limiting rise time to 0.11.
+
+V2 P001 0 PULSE(0 1 0.1 0 0 1.1)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\gupta\Desktop\vlsi\4th sem\Analog\PROJECT\Draft3.net(7): Limiting fall time to 0.11.
+
+V2 P001 0 PULSE(0 1 0.1 0 0 1.1)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+vernier = 0.5
+vernier = 0.25
+Gmin = 4.587e-11
+vernier = 0.333333
+Gmin = 2.27025e-11
+vernier = 0.444444
+vernier = 0.222222
+vernier = 0.111111
+Gmin = 1.64459e-11
+vernier = 0.148148
+vernier = 0.197531
+Gmin = 1.09033e-11
+vernier = 0.263374
+vernier = 0.131687
+vernier = 0.0658435
+Gmin = 9.12505e-12
+vernier = 0.0877914
+vernier = 0.117055
+Gmin = 7.13767e-12
+vernier = 0.156073
+vernier = 0.0780367
+vernier = 0.0390184
+Gmin = 5.564e-12
+vernier = 0.0520245
+Gmin = 4.96875e-12
+vernier = 0.0693659
+vernier = 0.0924879
+Gmin = 4.13097e-12
+vernier = 0.123317
+vernier = 0.0616586
+vernier = 0.0308293
+Gmin = 3.74052e-12
+vernier = 0.0411057
+vernier = 0.0548076
+Gmin = 3.3514e-12
+vernier = 0.0730768
+vernier = 0.0974357
+Gmin = 2.81752e-12
+vernier = 0.129914
+vernier = 0.0649571
+vernier = 0.0324786
+Gmin = 2.458e-12
+vernier = 0.0433047
+vernier = 0.0577396
+Gmin = 2.21699e-12
+vernier = 0.0769862
+Gmin = 1.87606e-12
+vernier = 0.102648
+vernier = 0.0513241
+vernier = 0.025662
+vernier = 0.0342161
+Gmin = 1.76759e-12
+vernier = 0.0456214
+Gmin = 1.60051e-12
+vernier = 0.0608285
+vernier = 0.0811047
+Gmin = 1.36098e-12
+vernier = 0.10814
+vernier = 0.0540698
+vernier = 0.0270349
+Gmin = 1.24738e-12
+vernier = 0.0360465
+vernier = 0.048062
+Gmin = 1.13275e-12
+vernier = 0.0640826
+vernier = 0.0854435
+Gmin = 9.72698e-13
+vernier = 0.0427217
+vernier = 0.0213609
+vernier = 0.0284812
+Gmin = 9.46995e-13
+vernier = 0.0379749
+vernier = 0.0506331
+Gmin = 8.65006e-13
+vernier = 0.0675108
+Gmin = 7.47069e-13
+vernier = 0.0900144
+vernier = 0.0450072
+vernier = 0.0225036
+vernier = 0.0300048
+Gmin = 7.0903e-13
+vernier = 0.0400064
+Gmin = 6.4987e-13
+vernier = 0.0533418
+vernier = 0.0711224
+Gmin = 5.63666e-13
+vernier = 0.0948299
+vernier = 0.0474149
+vernier = 0.0237075
+Gmin = 5.22149e-13
+vernier = 0.03161
+vernier = 0.0421466
+Gmin = 4.798e-13
+vernier = 0.0561954
+vernier = 0.0749272
+Gmin = 4.1975e-13
+vernier = 0.099903
+Gmin = 3.38161e-13
+vernier = 0.133204
+vernier = 0.066602
+vernier = 0.033301
+vernier = 0.0444013
+Gmin = 3.13049e-13
+vernier = 0.0592017
+Gmin = 2.75257e-13
+vernier = 0.0789356
+vernier = 0.105247
+Gmin = 2.23151e-13
+vernier = 0.14033
+vernier = 0.187106
+Gmin = 1.60345e-13
+vernier = 0.0935532
+vernier = 0.0467766
+vernier = 0.0623688
+Gmin = 1.51184e-13
+vernier = 0.0831584
+vernier = 0.110878
+Gmin = 1.24124e-13
+vernier = 0.147837
+Terminal Gmin changed to 1e-14
+vernier = 0.0739185
+Gmin = 1.00684e-13
+vernier = 0.098558
+Gmin = 8.13472e-14
+vernier = 0.131411
+vernier = 0.175214
+Gmin = 5.75023e-14
+vernier = 0.233619
+vernier = 0.311492
+Gmin = 3.33696e-14
+vernier = 0.415322
+Gmin = 1.39959e-14
+vernier = 0.553763
+Terminal Gmin changed to 1e-15
+vernier = 0.276881
+Gmin = 7.96989e-15
+vernier = 0.369175
+vernier = 0.492233
+Gmin = 2.94989e-15
+vernier = 0.656311
+vernier = 0.875081
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.365 seconds.
+
+Files loaded:
+C:\Users\gupta\Desktop\vlsi\4th sem\Analog\PROJECT\Draft3.net
+C:\Users\gupta\AppData\Local\LTspice\lib\cmp\standard.bjt
+
